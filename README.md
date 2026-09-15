@@ -91,18 +91,4 @@ Full-stack website for a music institute with interactive exam boards, student r
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th-demi&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=th-demi&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-demi&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
-
----
-
 <p align="center"><i>💡 Turning complex problems into clean, scalable systems — one commit at a time.</i></p>
