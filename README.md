@@ -103,8 +103,6 @@ Full-stack website for a music institute with interactive exam boards, student r
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-demi&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-> **Note:** these two cards load from a shared public service that occasionally rate-limits. If either shows broken after pasting, wait a few minutes and refresh the page — GitHub caches images via its camo proxy, so a stale broken result can persist briefly. For a permanent fix, deploy your own free instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-
 ---
 
 <p align="center"><i>💡 Turning complex problems into clean, scalable systems — one commit at a time.</i></p>
